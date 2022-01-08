@@ -2,7 +2,7 @@
   "name": "scribble",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://manutron.github.io/scribble/",
+  "homepage": "https://github.com/manuTRON/drawing-board.git",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
