@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/manuTRON/drawing-board.git/static/css/main.bb1fa82a.css",
+    "main.js": "/manuTRON/drawing-board.git/static/js/main.95957fc4.js",
+    "static/js/787.a76d6b6b.chunk.js": "/manuTRON/drawing-board.git/static/js/787.a76d6b6b.chunk.js",
+    "static/media/dot.svg": "/manuTRON/drawing-board.git/static/media/dot.3a380664049843319768.svg",
+    "index.html": "/manuTRON/drawing-board.git/index.html",
+    "main.bb1fa82a.css.map": "/manuTRON/drawing-board.git/static/css/main.bb1fa82a.css.map",
+    "main.95957fc4.js.map": "/manuTRON/drawing-board.git/static/js/main.95957fc4.js.map",
+    "787.a76d6b6b.chunk.js.map": "/manuTRON/drawing-board.git/static/js/787.a76d6b6b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb1fa82a.css",
+    "static/js/main.95957fc4.js"
+  ]
+}
